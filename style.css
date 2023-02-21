@@ -17,6 +17,7 @@ padding: 0;
     left: 10%;
     box-shadow: 8px 8px 8px red;
     cursor: pointer;
+    
 
 }
 .allouache-text{ 
@@ -160,6 +161,9 @@ nav ul li a{
 #feature{
         width: 100%;
         padding: 70px 0;
+        background-color: #000000;
+        color: #fff;
+     
          
         
  }
@@ -185,7 +189,7 @@ nav ul li a{
       content: '';
       width: 50px;
       height: 35px;
-      background: linear-gradient(green,#fff);
+      background: linear-gradient(rgb(3, 173, 3),rgb(1, 34, 1));
       position: absolute;
       top: -15px;
       left: 0;
@@ -270,7 +274,8 @@ nav ul li a{
 #service{
     width: 100;
     padding: 70px 0;
-    background: #efefef;
+    background: rgb(34, 34, 34);
+    color: #fff;
 }
 .service-box{
 
@@ -378,6 +383,8 @@ hr{
 
       width: 100%;
       padding: 70px 0;
+      background-color: #000000;
+      color: #fff;
 
 }
 .testimonial-row{
@@ -436,9 +443,9 @@ hr{
 /*--footer--*/
 #footer{
     padding: 100px 0 20px;
-    background: #efefef;
+    background-color: rgb(34, 34, 34);
     position: relative ;
-
+    color: #fff;
 }
 .footer-raw{
     width: 80%;
@@ -467,7 +474,7 @@ hr{
 
 }
 .footer-left .fa,.footer-right .fa{
-    font-size: 20px;
+    font-size: 24px;
     color: #009688;
     margin: 10px;
     
@@ -513,4 +520,14 @@ hr{
     .footer-img{
       top: 25%;  
     }
+}
+.paragraph-email{
+    color: rgb(169, 82, 250);
+}
+.paragraph-phone{
+    color: rgb(169, 82, 250);
+}
+
+.address-color{
+    color: rgb(169, 82, 250);
 }
