@@ -534,3 +534,44 @@ hr{
 .address-color{
     color: rgb(197, 136, 255);
 }
+.social-links .fa-facebook{
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    line-height: 40px;
+    border: 1px solid white;
+    margin: 40px 5px 0;
+    color: white;
+    cursor: pointer;
+    transition: .5s;
+    background-color: #1a73e8;
+    
+
+}
+.social-links .fa-twitter{
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    line-height: 40px;
+    border: 1px solid #1a73e8;
+    margin: 40px 5px 0;
+    color: #1a73e8;
+    cursor: pointer;
+    transition: .5s;
+    background-color: #fff;
+     
+}
+.social-links .fa-instagram{
+    background-color: white;
+    color:  orangered; 
+    border: 1px solid #1a73e8;
+
+}
+
+.social-links .fa-youtube-play{
+    background-color: white;
+    color: red; 
+    border: 1px solid #1a73e8;
+
+}
+   
